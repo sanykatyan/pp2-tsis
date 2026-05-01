@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Aruzhan",
+        "email": "aruzhan@gmail.com",
+        "birthday": "2005-03-12",
+        "group": "Friend",
+        "phones": [
+            {"phone": "87011234567", "type": "mobile"},
+            {"phone": "87271234567", "type": "home"}
+        ]
+    },
+    {
+        "name": "Dias",
+        "email": "dias@company.kz",
+        "birthday": "2004-09-21",
+        "group": "Work",
+        "phones": [
+            {"phone": "87079876543", "type": "work"}
+        ]
+    }
+]
